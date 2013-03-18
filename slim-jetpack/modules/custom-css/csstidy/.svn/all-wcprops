@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy
+END
+class.csstidy.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/class.csstidy.php
+END
+cssparsed.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/cssparsed.css
+END
+lang.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/lang.inc.php
+END
+class.csstidy_ctype.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/class.csstidy_ctype.php
+END
+wordpress-standard.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/wordpress-standard.tpl
+END
+class.csstidy_optimise.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/class.csstidy_optimise.php
+END
+data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/data.inc.php
+END
+class.csstidy_print.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/class.csstidy_print.php
+END
+cssparse.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/cssparse.css
+END
+data-wp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/654615/slimjetpack/tags/2.1.1.3/modules/custom-css/csstidy/data-wp.inc.php
+END

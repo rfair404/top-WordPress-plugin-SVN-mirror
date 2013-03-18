@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/671213/s2member/tags/130221/includes/templates/buttons
+END
+paypal-checkout-button.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/671213/s2member/tags/130221/includes/templates/buttons/paypal-checkout-button.php
+END
+paypal-sp-checkout-button.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/671213/s2member/tags/130221/includes/templates/buttons/paypal-sp-checkout-button.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/templates/buttons/index.php
+END
+paypal-cancellation-button.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/671213/s2member/tags/130221/includes/templates/buttons/paypal-cancellation-button.php
+END
+paypal-ccaps-checkout-button.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/671213/s2member/tags/130221/includes/templates/buttons/paypal-ccaps-checkout-button.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/477526/secure-wordpress/trunk/js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/412623/secure-wordpress/trunk/js/json.js
+END
+sw_wsd_scripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/412623/secure-wordpress/trunk/js/sw_wsd_scripts.js
+END
+md5.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/450614/secure-wordpress/trunk/js/md5.js
+END
+sw_wsd.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/477526/secure-wordpress/trunk/js/sw_wsd.js
+END
+verify_form.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/450614/secure-wordpress/trunk/js/verify_form.js
+END
+prepare_new_user_form.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/450614/secure-wordpress/trunk/js/prepare_new_user_form.js
+END
+remove_wp_version.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/412623/secure-wordpress/trunk/js/remove_wp_version.js
+END

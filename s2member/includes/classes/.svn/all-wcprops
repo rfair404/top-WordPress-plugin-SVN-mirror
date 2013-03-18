@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/671213/s2member/tags/130221/includes/classes
+END
+sc-gets-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-gets-in.inc.php
+END
+utilities.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utilities.inc.php
+END
+paypal-notify-in-subscr-or-rp-payment-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-subscr-or-rp-payment-w-level.inc.php
+END
+profile-mods-4bp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/profile-mods-4bp.inc.php
+END
+utils-strings.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-strings.inc.php
+END
+login-redirects-r.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/671213/s2member/tags/130221/includes/classes/login-redirects-r.inc.php
+END
+paypal-notify-in-subscr-or-wa-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-subscr-or-wa-w-level.inc.php
+END
+cron-jobs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/cron-jobs.inc.php
+END
+tracking-codes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/tracking-codes.inc.php
+END
+utils-users.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-users.inc.php
+END
+menu-pages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/menu-pages.inc.php
+END
+utils-s2o.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-s2o.inc.php
+END
+files.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/files.inc.php
+END
+paypal-return-in-subscr-or-wa-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php
+END
+labels.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/671213/s2member/tags/130221/includes/classes/labels.inc.php
+END
+sc-profile.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-profile.inc.php
+END
+profile-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/profile-in.inc.php
+END
+paypal-return-in-subscr-modify-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-subscr-modify-w-level.inc.php
+END
+security.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/security.inc.php
+END
+posts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/posts.inc.php
+END
+user-access.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/user-access.inc.php
+END
+sc-keys.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-keys.inc.php
+END
+paypal-notify-in-subscr-modify-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-subscr-modify-w-level.inc.php
+END
+tracking-cookies-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/671213/s2member/tags/130221/includes/classes/tracking-cookies-in.inc.php
+END
+ssl.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ssl.inc.php
+END
+utils-html.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-html.inc.php
+END
+paypal-return-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in.inc.php
+END
+constants.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/constants.inc.php
+END
+email-configs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/email-configs.inc.php
+END
+translations.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/translations.inc.php
+END
+utils-captchas.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-captchas.inc.php
+END
+profile-mods-4bp-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/671213/s2member/tags/130221/includes/classes/profile-mods-4bp-in.inc.php
+END
+option-forces.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/option-forces.inc.php
+END
+ip-restrictions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ip-restrictions.inc.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/671213/s2member/tags/130221/includes/classes/index.php
+END
+user-new.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/user-new.inc.php
+END
+css-js-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/css-js-in.inc.php
+END
+sc-profile-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-profile-in.inc.php
+END
+systematics.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/systematics.inc.php
+END
+user-new-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/user-new-in.inc.php
+END
+wp-footer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/wp-footer.inc.php
+END
+s-badge-status.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/s-badge-status.inc.php
+END
+register-access.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/671213/s2member/tags/130221/includes/classes/register-access.inc.php
+END
+utils-css.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-css.inc.php
+END
+admin-css-js.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/admin-css-js.inc.php
+END
+querys.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/671213/s2member/tags/130221/includes/classes/querys.inc.php
+END
+utils-encryption.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-encryption.inc.php
+END
+user-securities.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/671213/s2member/tags/130221/includes/classes/user-securities.inc.php
+END
+paypal-notify-in-virtual-terminal.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-virtual-terminal.inc.php
+END
+ptags-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ptags-sp.inc.php
+END
+css-js.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/671213/s2member/tags/130221/includes/classes/css-js.inc.php
+END
+list-servers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/list-servers.inc.php
+END
+paypal-notify-in-subscr-or-rp-payment-failed-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-subscr-or-rp-payment-failed-w-level.inc.php
+END
+paypal-return-in-proxy-ty-email.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-proxy-ty-email.inc.php
+END
+sc-files.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-files.inc.php
+END
+sc-files-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-files-in.inc.php
+END
+return-templates.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/return-templates.inc.php
+END
+custom-reg-fields-4bp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/671213/s2member/tags/130221/includes/classes/custom-reg-fields-4bp.inc.php
+END
+op-notices.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/op-notices.inc.php
+END
+auto-eots.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/auto-eots.inc.php
+END
+meta-box-security.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/671213/s2member/tags/130221/includes/classes/meta-box-security.inc.php
+END
+paypal-notify-in-sp-refund-reversal.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-sp-refund-reversal.inc.php
+END
+sc-keys-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-keys-in.inc.php
+END
+utils-urls.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-urls.inc.php
+END
+paypal-notify-in-wa-ccaps-wo-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-wa-ccaps-wo-level.inc.php
+END
+posts-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/posts-sp.inc.php
+END
+register-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/register-in.inc.php
+END
+registration-times.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/671213/s2member/tags/130221/includes/classes/registration-times.inc.php
+END
+admin-notices.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/admin-notices.inc.php
+END
+admin-css-js-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/671213/s2member/tags/130221/includes/classes/admin-css-js-in.inc.php
+END
+tracking-cookies.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/tracking-cookies.inc.php
+END
+utils-dirs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-dirs.inc.php
+END
+paypal-notify-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in.inc.php
+END
+login-customizations.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/671213/s2member/tags/130221/includes/classes/login-customizations.inc.php
+END
+cache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/cache.inc.php
+END
+user-notes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/user-notes.inc.php
+END
+sc-if-conds.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-if-conds.inc.php
+END
+sc-s-badge.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-s-badge.inc.php
+END
+sc-paypal-button-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-paypal-button-in.inc.php
+END
+sc-if-conds-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-if-conds-in.inc.php
+END
+sc-s-badge-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-s-badge-in.inc.php
+END
+check-activation.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/check-activation.inc.php
+END
+no-cache.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/no-cache.inc.php
+END
+users-list-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/users-list-in.inc.php
+END
+readmes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/671213/s2member/tags/130221/includes/classes/readmes.inc.php
+END
+paypal-notify-in-rec-profile-creation-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-rec-profile-creation-w-level.inc.php
+END
+catgs-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/catgs-sp.inc.php
+END
+sp-access.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sp-access.inc.php
+END
+paypal-return-in-no-tx-data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-no-tx-data.inc.php
+END
+ruris-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ruris-sp.inc.php
+END
+utils-forms.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-forms.inc.php
+END
+mo-page.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/671213/s2member/tags/130221/includes/classes/mo-page.inc.php
+END
+css-js-themes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/css-js-themes.inc.php
+END
+s-badge-status-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/671213/s2member/tags/130221/includes/classes/s-badge-status-in.inc.php
+END
+utils-cur.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-cur.inc.php
+END
+custom-reg-fields.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/671213/s2member/tags/130221/includes/classes/custom-reg-fields.inc.php
+END
+mo-page-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/mo-page-in.inc.php
+END
+paypal-notify-in-express-checkout.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-express-checkout.inc.php
+END
+profile-mods.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/profile-mods.inc.php
+END
+cron-jobs-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/cron-jobs-in.inc.php
+END
+installation.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/installation.inc.php
+END
+sc-paypal-button.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-paypal-button.inc.php
+END
+utils-logs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-logs.inc.php
+END
+ruris.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ruris.inc.php
+END
+ssl-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ssl-in.inc.php
+END
+paypal-return-in-proxy-x-preview.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-proxy-x-preview.inc.php
+END
+users-list.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/users-list.inc.php
+END
+paypal-notify-in-send-money.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-send-money.inc.php
+END
+paypal-notify-in-subscr-or-rp-eots-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-subscr-or-rp-eots-w-level.inc.php
+END
+brute-force.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/brute-force.inc.php
+END
+ptags.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/ptags.inc.php
+END
+mms-patches.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/mms-patches.inc.php
+END
+menu-pages-rs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/menu-pages-rs.inc.php
+END
+paypal-notify-in-cart.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-cart.inc.php
+END
+systematics-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/systematics-sp.inc.php
+END
+admin-lockouts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/admin-lockouts.inc.php
+END
+login-redirects.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/671213/s2member/tags/130221/includes/classes/login-redirects.inc.php
+END
+meta-box-saves.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/meta-box-saves.inc.php
+END
+registrations.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/registrations.inc.php
+END
+pages.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/pages.inc.php
+END
+paypal-return-in-web-accept-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-web-accept-sp.inc.php
+END
+catgs.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/671213/s2member/tags/130221/includes/classes/catgs.inc.php
+END
+user-deletions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/671213/s2member/tags/130221/includes/classes/user-deletions.inc.php
+END
+meta-boxes.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/meta-boxes.inc.php
+END
+profile-mods-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/671213/s2member/tags/130221/includes/classes/profile-mods-in.inc.php
+END
+roles-caps.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/roles-caps.inc.php
+END
+pages-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/pages-sp.inc.php
+END
+register.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/register.inc.php
+END
+sc-paypal-button-e.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-paypal-button-e.inc.php
+END
+paypal-notify-in-web-accept-sp.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-web-accept-sp.inc.php
+END
+paypal-return-in-wa-ccaps-wo-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php
+END
+utils-time.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-time.inc.php
+END
+paypal-notify.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify.inc.php
+END
+paypal-notify-in-subscr-or-rp-cancellation-w-level.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-notify-in-subscr-or-rp-cancellation-w-level.inc.php
+END
+utils-arrays.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-arrays.inc.php
+END
+paypal-utilities.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-utilities.inc.php
+END
+utils-gets.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-gets.inc.php
+END
+profile.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/671213/s2member/tags/130221/includes/classes/profile.inc.php
+END
+paypal-return.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/classes/paypal-return.inc.php
+END
+utils-conds.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/671213/s2member/tags/130221/includes/classes/utils-conds.inc.php
+END
+sc-gets.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/671213/s2member/tags/130221/includes/classes/sc-gets.inc.php
+END
+files-in.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/671213/s2member/tags/130221/includes/classes/files-in.inc.php
+END

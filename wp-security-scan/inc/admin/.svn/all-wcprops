@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/477528/wp-security-scan/trunk/inc/admin
+END
+pwtool.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/450623/wp-security-scan/trunk/inc/admin/pwtool.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/408321/wp-security-scan/trunk/inc/admin/db.php
+END
+security.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/400857/wp-security-scan/trunk/inc/admin/security.php
+END
+plugin_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/477528/wp-security-scan/trunk/inc/admin/plugin_options.php
+END
+scanner.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/450623/wp-security-scan/trunk/inc/admin/scanner.php
+END
+support.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/450623/wp-security-scan/trunk/inc/admin/support.php
+END

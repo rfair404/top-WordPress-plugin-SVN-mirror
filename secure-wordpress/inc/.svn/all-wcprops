@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/477526/secure-wordpress/trunk/inc
+END
+readme_en.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/91663/secure-wordpress/trunk/inc/readme_en.txt
+END
+swUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/450614/secure-wordpress/trunk/inc/swUtil.php
+END
+swWSD.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/477526/secure-wordpress/trunk/inc/swWSD.php
+END
+json.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/412623/secure-wordpress/trunk/inc/json.php
+END
+WPlize.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/91663/secure-wordpress/trunk/inc/WPlize.php
+END
+readme_de.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/91663/secure-wordpress/trunk/inc/readme_de.txt
+END
+recaptchalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/412623/secure-wordpress/trunk/inc/recaptchalib.php
+END

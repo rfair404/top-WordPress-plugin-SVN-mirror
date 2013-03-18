@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files
+END
+s2o-mu-plugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2o-mu-plugins.php
+END
+s2o-nw-plugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2o-nw-plugins.php
+END
+s2o-st-plugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2o-st-plugins.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/index.php
+END
+s2o-th-funcs.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2o-th-funcs.php
+END
+s2-cross-xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2-cross-xml.php
+END
+s2member-files.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2member-files.php
+END
+s2member-files-no-gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2member-files-no-gzip.php
+END
+s2member-logs.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/671213/s2member/tags/130221/includes/templates/cfg-files/s2member-logs.php
+END

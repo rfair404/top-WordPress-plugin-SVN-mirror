@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders
+END
+bookingbutton.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/bookingbutton.php
+END
+categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/categories.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/readme.txt
+END
+locationmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/locationmap.php
+END
+attendeeslist.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/attendeeslist.php
+END
+attendees.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/attendees.php
+END
+bookingform.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/bookingform.php
+END
+attendeespendinglist.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/attendeespendinglist.php
+END
+eventcategoriesimages.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/eventcategoriesimages.php
+END
+eventtags.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/placeholders/eventtags.php
+END

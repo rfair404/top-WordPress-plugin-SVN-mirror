@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin
+END
+em-locations-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-locations-search.php
+END
+em-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-admin.php
+END
+em-docs.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-docs.php
+END
+em-help.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-help.php
+END
+em-ms-locations.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-ms-locations.php
+END
+em-ms-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-ms-options.php
+END
+em-bookings.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-bookings.php
+END
+em-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/674708/events-manager/tags/5.3.6.1/admin/em-options.php
+END

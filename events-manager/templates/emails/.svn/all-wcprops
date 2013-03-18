@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/emails
+END
+bookingtickets.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/emails/bookingtickets.php
+END
+new-user.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/emails/new-user.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/674708/events-manager/tags/5.3.6.1/templates/emails/readme.txt
+END

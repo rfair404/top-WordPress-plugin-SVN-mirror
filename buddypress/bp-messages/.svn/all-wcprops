@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages
+END
+bp-messages-template.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-template.php
+END
+bp-messages-classes.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-classes.php
+END
+bp-messages-actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-actions.php
+END
+bp-messages-screens.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-screens.php
+END
+bp-messages-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-cache.php
+END
+bp-messages-cssjs.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-cssjs.php
+END
+bp-messages-loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-loader.php
+END
+bp-messages-filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-filters.php
+END
+bp-messages-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-functions.php
+END
+bp-messages-notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/658259/buddypress/tags/1.6.4/bp-messages/bp-messages-notifications.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin
+END
+class-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-admin.php
+END
+class-opengraph-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-opengraph-admin.php
+END
+class-sitemaps-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-sitemaps-admin.php
+END
+TextStatistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/TextStatistics.php
+END
+class-taxonomy.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-taxonomy.php
+END
+class-metabox.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-metabox.php
+END
+ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/ajax.php
+END
+class-tracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-tracking.php
+END
+class-pointers.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-pointers.php
+END
+class-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/admin/class-config.php
+END

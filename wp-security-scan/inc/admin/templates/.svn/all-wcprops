@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/477528/wp-security-scan/trunk/inc/admin/templates
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/477528/wp-security-scan/trunk/inc/admin/templates/footer.php
+END
+db-change-prefix.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/477528/wp-security-scan/trunk/inc/admin/templates/db-change-prefix.php
+END
+db-backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/477528/wp-security-scan/trunk/inc/admin/templates/db-backup.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/408321/wp-security-scan/trunk/inc/admin/templates/header.php
+END

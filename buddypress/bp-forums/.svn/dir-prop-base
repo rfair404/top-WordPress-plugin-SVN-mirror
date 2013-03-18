@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 50
+bbpress http://bbpress.svn.wordpress.org/tags/1.2
+
+END

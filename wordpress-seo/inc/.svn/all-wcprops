@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/inc
+END
+wpseo-non-ajax-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/inc/wpseo-non-ajax-functions.php
+END
+wpseo-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/inc/wpseo-functions.php
+END
+class-rewrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/inc/class-rewrite.php
+END
+class-sitemaps.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/681193/wordpress-seo/tags/1.4.3/inc/class-sitemaps.php
+END

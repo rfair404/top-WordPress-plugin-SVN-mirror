@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/668549/nextgen-gallery/trunk/lib
+END
+rewrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/574080/nextgen-gallery/trunk/lib/rewrite.php
+END
+image.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/574080/nextgen-gallery/trunk/lib/image.php
+END
+media-rss.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/574080/nextgen-gallery/trunk/lib/media-rss.php
+END
+gd.thumbnail.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/624771/nextgen-gallery/trunk/lib/gd.thumbnail.inc.php
+END
+swfobject.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/574080/nextgen-gallery/trunk/lib/swfobject.php
+END
+meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/667652/nextgen-gallery/trunk/lib/meta.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/667652/nextgen-gallery/trunk/lib/core.php
+END
+tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/640902/nextgen-gallery/trunk/lib/tags.php
+END
+ngg-db.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/667652/nextgen-gallery/trunk/lib/ngg-db.php
+END
+navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/574080/nextgen-gallery/trunk/lib/navigation.php
+END
+locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/574080/nextgen-gallery/trunk/lib/locale.php
+END
+sitemap.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/667652/nextgen-gallery/trunk/lib/sitemap.php
+END
+xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/641305/nextgen-gallery/trunk/lib/xmlrpc.php
+END
+post-thumbnail.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/574080/nextgen-gallery/trunk/lib/post-thumbnail.php
+END
+imagemagick.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/574080/nextgen-gallery/trunk/lib/imagemagick.inc.php
+END
+shortcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/667652/nextgen-gallery/trunk/lib/shortcodes.php
+END
+multisite.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/668549/nextgen-gallery/trunk/lib/multisite.php
+END

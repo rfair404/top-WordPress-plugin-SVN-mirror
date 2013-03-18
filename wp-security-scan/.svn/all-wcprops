@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/477528/wp-security-scan/trunk
+END
+uninstall.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/437312/wp-security-scan/trunk/uninstall.php
+END
+securityscan.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/477528/wp-security-scan/trunk/securityscan.php
+END
+screenshot-1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/400333/wp-security-scan/trunk/screenshot-1.jpg
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/477528/wp-security-scan/trunk/readme.txt
+END
+screenshot-2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/400333/wp-security-scan/trunk/screenshot-2.jpg
+END

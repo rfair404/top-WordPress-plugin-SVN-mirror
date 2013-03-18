@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/596962/sociable/tags/4.3.3/includes
+END
+sociable_output.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/596962/sociable/tags/4.3.3/includes/sociable_output.php
+END
+async_request.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/596962/sociable/tags/4.3.3/includes/async_request.php
+END
+skyscraper_output.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/596569/sociable/tags/4.3.3/includes/skyscraper_output.php
+END
+class-Sociable_Globals.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/596569/sociable/tags/4.3.3/includes/class-Sociable_Globals.php
+END
+class-sociable_Admin_Options.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/596569/sociable/tags/4.3.3/includes/class-sociable_Admin_Options.php
+END
+sociable.pot
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/596569/sociable/tags/4.3.3/includes/sociable.pot
+END
+rss_php.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/596569/sociable/tags/4.3.3/includes/rss_php.php
+END

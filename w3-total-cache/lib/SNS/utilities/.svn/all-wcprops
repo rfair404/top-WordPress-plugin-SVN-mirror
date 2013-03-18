@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/SNS/utilities
+END
+request.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/SNS/utilities/request.class.php
+END
+simplexml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/SNS/utilities/simplexml.class.php
+END
+utilities.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/SNS/utilities/utilities.class.php
+END
+response.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/SNS/utilities/response.class.php
+END

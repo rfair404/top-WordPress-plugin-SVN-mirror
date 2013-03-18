@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3
+END
+Redirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Redirect.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Cache.php
+END
+CacheFlush.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/CacheFlush.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Config.php
+END
+ObjectCacheBridge.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ObjectCacheBridge.php
+END
+Referrer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Referrer.php
+END
+VarnishFlush.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/VarnishFlush.php
+END
+CloudFlare.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/CloudFlare.php
+END
+CacheFlushLocal.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/CacheFlushLocal.php
+END
+Plugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Plugins.php
+END
+PageUrls.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/PageUrls.php
+END
+FileVerification.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/FileVerification.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Db.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Request.php
+END
+ModuleStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ModuleStatus.php
+END
+PgCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/PgCache.php
+END
+PageSpeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/PageSpeed.php
+END
+Plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Plugin.php
+END
+ConfigBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ConfigBase.php
+END
+Setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Setup.php
+END
+ConfigKeys.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ConfigKeys.php
+END
+ConfigWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ConfigWriter.php
+END
+Minifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Minifier.php
+END
+Cdn.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Cdn.php
+END
+Cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Cli.php
+END
+Mobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Mobile.php
+END
+DbCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/DbCache.php
+END
+Varnish.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Varnish.php
+END
+ConfigAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ConfigAdmin.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/index.html
+END
+Dispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Dispatcher.php
+END
+NewRelicService.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/NewRelicService.php
+END
+ObjectCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ObjectCache.php
+END
+CdnCacheFlush.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/CdnCacheFlush.php
+END
+Minify.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/Minify.php
+END
+PgCacheFlush.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/PgCacheFlush.php
+END
+CacheCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/CacheCase.php
+END
+ConfigData.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/W3/ConfigData.php
+END

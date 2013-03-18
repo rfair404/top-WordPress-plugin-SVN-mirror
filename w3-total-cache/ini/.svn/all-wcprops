@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini
+END
+dbcluster-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/dbcluster-config-sample.php
+END
+nginx-standalone-sample-config.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/nginx-standalone-sample-config.conf
+END
+s3-sample-policy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/s3-sample-policy.txt
+END
+varnish-sample-config.vcl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/varnish-sample-config.vcl
+END
+memcache.ini
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/memcache.ini
+END
+nginx-network-sample-config.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/nginx-network-sample-config.conf
+END
+apc.ini
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/apc.ini
+END
+eaccelerator.ini
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/eaccelerator.ini
+END
+xcache.ini
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/xcache.ini
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/index.html
+END
+php.append.ini
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/ini/php.append.ini
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/OAuth
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/OAuth/OAuth.php
+END
+OAuthService.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/OAuth/OAuthService.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/OAuth/config.php
+END
+NetDNAOAuthClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/OAuth/NetDNAOAuthClient.php
+END
+OAuthClientBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/665512/w3-total-cache/tags/0.9.2.8/lib/OAuth/OAuthClientBase.php
+END
